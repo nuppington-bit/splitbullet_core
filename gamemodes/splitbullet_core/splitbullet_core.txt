@@ -3,4 +3,5 @@
 	"title"			"Split Bullet: Core"
 	"base"			"base"
 	"menusystem" 	"0"
+	"workshopid"	"2387941394"
 }
