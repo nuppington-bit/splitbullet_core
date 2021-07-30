@@ -1,0 +1,6 @@
+"Gamemode"
+{
+	"title"			"Split Bullet: Core"
+	"base"			"base"
+	"menusystem" 	"0"
+}

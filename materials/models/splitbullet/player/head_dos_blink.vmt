@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/splitbullet/player/head_dos_blink"
+	"$alphatest" "1"
+}

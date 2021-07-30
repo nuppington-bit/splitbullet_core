@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/splitbullet/weapons/w_sbshotgun"
+	"$alphatest" 1
+}

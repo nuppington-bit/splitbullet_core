@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/splitbullet/player/lowerlegr"
+	"$alphatest" "1"
+}

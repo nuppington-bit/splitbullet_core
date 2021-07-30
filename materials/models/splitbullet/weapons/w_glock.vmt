@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/splitbullet/weapons/w_glock"
+	"$alphatest" 1
+}
