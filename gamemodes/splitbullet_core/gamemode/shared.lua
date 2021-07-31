@@ -19,7 +19,7 @@ GM.Website = "https://www.tidalverse.dev/"
 GM.IsSplitBullet = true
 GM.SplitBulletSuffix = ": Core"
 
-DeriveGamemode("base")
+DeriveGamemode( "sandbox" )
 
 // Don't allow moving out of bounds.
 // TODO: Allow maps to set the player's axis via logic_splitbullet.
